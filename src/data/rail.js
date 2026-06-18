@@ -1,0 +1,15 @@
+export const RAIL = [
+  { ic: 'gauge',     t: 'Dashboard' },
+  { ic: 'ticket',    t: 'Requests', active: true },
+  { ic: 'user',      t: 'Requesters' },
+  { ic: 'flow',      t: 'Workflow' },
+  { ic: 'upload',    t: 'Import' },
+  { ic: 'monitor',   t: 'Assets' },
+  { ic: 'cog',       t: 'Admin' },
+  { ic: 'box',       t: 'Catalog' },
+  { ic: 'tree',      t: 'CMDB' },
+  { ic: 'bulb',      t: 'Solutions' },
+  { ic: 'report',    t: 'Reports' },
+  { ic: 'usercheck', t: 'Approvals' },
+  { ic: 'checklist', t: 'Tasks' },
+];

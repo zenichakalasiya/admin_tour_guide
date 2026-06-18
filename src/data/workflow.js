@@ -1,0 +1,16 @@
+export const WORKFLOW_ROWS = [
+  ['New Incident Auto Assignment',         'Escalation Workflow',      'New incident is logged',             'Wed, 20/12/2022 03:36 PM'],
+  ['High Priority Escalation Workflow',    'SLA Management',           'Priority = High & time threshold met','Tue, 20/12/2022 04:16 PM'],
+  ['SLA Breach Notification',              'Access Management',        'SLA warning or breach time hit',      'Tue, 20/12/2022 04:12 PM'],
+  ['User Access Request Approval',         'HR/IT Onboarding Workflow','Access request is submitted',         'Tue, 20/12/2022 02:20 PM'],
+  ['Onboarding IT Checklist Workflow',     'Service Request Workflow', 'New employee onboarding initiated',   'Mon, 22/12/2022 12:27 PM'],
+  ['Software Installation Request Approval','Self-Service Workflow',   'Software request submitted',          'Mon, 22/12/2022 06:26 PM'],
+  ['Password Reset Auto-Resolve',          'Patch Management Workflow','Password reset request raised',       'Thu, 23/12/2022 03:24 PM'],
+  ['Patch Compliance Follow-up',           'Asset Management Workflow','Patch scan reports missing patch',    'Wed, 23/12/2022 03:36 PM'],
+  ['Hardware Replacement Approval Flow',   'Change Management',        'Hardware replacement requested',      'Tue, 24/12/2022 04:16 PM'],
+  ['Change Request with CAB Review',       'Access Management',        'Change request submitted',            'Tue, 24/12/2022 04:12 PM'],
+  ['VPN Access Workflow',                  'Notification Workflow',    'VPN access request submitted',        'Tue, 25/12/2022 02:20 PM'],
+  ['Weekly Ticket Summary Email',          'Closure Workflow',         'Weekly schedule (e.g., Monday 9 AM)', 'Mon, 25/12/2022 12:27 PM'],
+  ['Incident Auto-Closure After 72 Hours', 'Communication Workflow',   'Resolved ticket reaches 72 hours',    'Mon, 26/12/2022 06:26 PM'],
+  ['Outage Communication Workflow',        'Escalation Workflow',      'Outage is declared',                  'Thu, 26/12/2022 03:24 PM'],
+];
